@@ -24,6 +24,12 @@ Soy desarrollador web con formación en el ciclo de **Desarrollo de Aplicaciones
 
 ---
 
+## 📁 Proyectos destacados
+
+- 🧾 [Trello Clone](https://github.com/Jesus-Burguillo/trello-clone) – Aplicación de gestión de tareas inspirada en Trello. Desarrollada con **React**, **Node.js**, **Express** y **Prisma**. Permite crear tableros, columnas y tareas, con soporte para asignaciones y orden personalizado.
+
+---
+
 ## 🚀 En qué estoy trabajando
 Actualmente estoy practicando y reforzando mis conocimientos con proyectos personales, enfocados en el desarrollo fullstack y el uso de buenas prácticas de programación.
 

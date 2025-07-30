@@ -26,7 +26,7 @@ Soy desarrollador web con formación en el ciclo de **Desarrollo de Aplicaciones
 
 ## 📁 Proyectos destacados
 
-- 🧾 [Trello Clone](https://github.com/Jesus-Burguillo/trello-clone) – Aplicación de gestión de tareas inspirada en Trello. Desarrollada con **React**, **Node.js**, **Express** y **Prisma**. Permite crear tableros, columnas y tareas, con soporte para asignaciones y orden personalizado.
+- 🧾 [Trello Clone](https://github.com/Jesus-Burguillo/Tremu) – Aplicación de gestión de tareas inspirada en Trello. Desarrollada con **React**, **Node.js**, **Express** y **Prisma**. Permite crear tableros, columnas y tareas, con soporte para asignaciones y orden personalizado.
 
 ---
 

@@ -37,7 +37,7 @@ Actualmente estoy practicando y reforzando mis conocimientos con proyectos perso
 
 ## 📫 Contacto
 - ✉️ Email: j.burguillo.dev@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/jes%C3%BAs-burguillo-malag%C3%B3n-30a888359/)
+- 💼 [LinkedIn](www.linkedin.com/in/jesusburguillo)
 
 ---
 
